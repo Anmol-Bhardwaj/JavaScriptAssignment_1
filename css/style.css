@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: #333;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.hiii{
+    display: flex;
+}
+section {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#studentnumber{
+    margin-left: 20px;
+    margin-top: 6px;
+    font-size: 30px;
+}
+.haha{
+    display: flex;
+}
+
+#story {
+    min-height: 50px;
+    background-color: #e7e7e7;
+    border: dashed 2px #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
